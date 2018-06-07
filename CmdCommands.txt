@@ -1,0 +1,4 @@
+mkdir - creates a new directory
+chmod -R 777 <directory name> - gives read & write permissions
+cd - change directory
+ls - show list of folder & files
